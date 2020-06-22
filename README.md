@@ -1,6 +1,7 @@
-# Ray_GUN-_for_arduino
+# Ray_GUN-_for_arduino　-A Arduino Program to play sound by Arduino's self</br>
+
 This is a program to play sound while lighting LED. You need no shield to play sound file. このプログラムはArduinoを使ってLチカと音声再生をするプログラムです。 Arduino単独でシールドなどは使わずにできます。
-# Ray_gun　-A Arduino Program to play sound by Arduino's self
+
 
 ## 概要
 このプログラムはArduinoを使ってLチカと音声再生をするプログラムです。 </br>
